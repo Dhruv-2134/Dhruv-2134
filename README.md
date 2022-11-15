@@ -2,13 +2,15 @@
 </h1>
 
 
-[![Hi](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=3000&color=8700FF&background=F8FF0000&vCenter=true&multiline=true&width=500&height=200&lines=-%3E+Hi+I+am+Dhruv)](https://github.com/usersatoshi)
+[![Hi](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=3000&color=8700FF&background=F8FF0000&vCenter=true&multiline=true&width=500&height=100&lines=-%3E+Hi+I+am+Dhruv;-%3E+I+am+19+years+old;-%3E+I+am+a+newbie)](https://github.com/Dhruv-2134)
 
 <h1 align="center" color="#8700ff">Description Badges
 </h1>
 <h3 align="center">A Cool Collection of Badges describing me</h3>
 
 ![Name](https://img.shields.io/badge/Name-Dhruv-8700ff.svg)
+![Age](https://img.shields.io/badge/Age-19-8700ff.svg)
+![CSE](https://img.shields.io/badge/Studying-CSE-8700ff.svg)
 
 <h1 align="center" color="#8700ff">Trophies
 </h1>
