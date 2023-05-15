@@ -33,16 +33,6 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/dhruv_2134)
 [![Discord](https://img.shields.io/badge/DoNotAsk_4831-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/896283195459383308)
   
-<h1 align="center" color="#8700ff">My Stats
-</h1>
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
-
-![Dhruv_2134's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruv-2134&count_private=true&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-2134&langs_count=10&layout=compact)
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dhruv-2134&theme=onedark_duo&date_format=j%20M%5B%20Y%5D)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhruv-2134&theme=dark)
 
