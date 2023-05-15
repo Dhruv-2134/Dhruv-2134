@@ -9,7 +9,7 @@
 <h3 align="center">A Cool Collection of Badges describing me</h3>
 
 ![Name](https://img.shields.io/badge/Name-Dhruv-8700ff.svg)
-![Age](https://img.shields.io/badge/Age-19-8700ff.svg)
+![Age](https://img.shields.io/badge/Age-20-8700ff.svg)
 ![CSE](https://img.shields.io/badge/Studying-CSE-8700ff.svg)
 
 <h1 align="center" color="#8700ff">Trophies
