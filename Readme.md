@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Dhruv Srivastava</h1>
 <h3 align="center">A passionate Frontend and Blockchain developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dhruv-3241&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv-3241" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dhruv-2134&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv-2134" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruv-3241" alt="dhruv-3241" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruv-2134" alt="dhruv-2134" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **NodeJS, Solidity**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-plum-seven-95.vercel.app/](https://portfolio-plum-seven-95.vercel.app/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://portfolio-plum-seven-95.vercel.app/).
 
 - 💬 Ask me about **React, MongoDB**
 
@@ -80,6 +80,6 @@
 	<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="Kubernetes" width="40" height="40"/> </a> 	
  </p>
 <p></br></br></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv-3241&show_icons=true&locale=en&layout=compact" alt="dhruv-3241" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv-2134&show_icons=true&locale=en&layout=compact" alt="dhruv-2134" /></p>
 <p></br></br></p>
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhruv-2134&theme=dark"/> </p>
